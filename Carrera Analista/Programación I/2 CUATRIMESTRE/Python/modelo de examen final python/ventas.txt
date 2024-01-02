@@ -1,0 +1,4 @@
+Celulares = 3587 
+Indumentaria = 9850
+fundas de celulares = 8000
+deportes = 1000

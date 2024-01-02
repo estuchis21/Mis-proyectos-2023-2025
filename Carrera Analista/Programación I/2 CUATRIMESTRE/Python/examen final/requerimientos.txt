@@ -1,0 +1,12 @@
+enero = 1000
+febrero = 2000
+marzo = 3000
+abril = 4000
+mayo = 5000
+junio = 6000
+julio = 7000
+agosto = 8000
+septiembre = 9000
+octubre = 10000
+noviembre = 11000
+diciembre = 12000
