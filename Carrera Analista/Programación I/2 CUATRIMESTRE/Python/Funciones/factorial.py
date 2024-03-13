@@ -16,3 +16,6 @@ while True:
     else:
         resultado = calcular_factorial(cantidad_de_entrada)
         print(f"El factorial de {cantidad_de_entrada} es {resultado}")
+        
+        
+calcular_factorial(6)
